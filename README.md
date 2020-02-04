@@ -12,7 +12,7 @@ Requirements
 Install
 =======
 
-The quick way::
+The quick way:
 
     pip install scrapy
 
