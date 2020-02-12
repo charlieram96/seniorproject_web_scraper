@@ -30,10 +30,10 @@ How to run the scraper
 
 1. Open the terminal
 2. Navigate to the folder "ws_seniorproject"
-3. Run the scraper (spider we are working with is called "project1")::
+3. Run the scraper (spider we are working with is called "testfile")::
        
-       scrapy crawl project1
+       scrapy crawl testfile
        
 Alternatively, store the results in a json file::
 
-       scrapy crawl project1 -o results.json
+       scrapy crawl testfile -o results.json
